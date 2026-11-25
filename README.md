@@ -1,56 +1,67 @@
 # Git and GitHub: From First Commit to Live Website
 
-### Week 3 – Technical Writing Internship | Tutorial Video
+### Week 3 — Technical Writing Internship | Tutorial Video
 
-This repository contains a comprehensive educational video tutorial developed as part of Week 3 of the Technical Writing Internship. It provides a beginner-friendly introduction to Git and GitHub, demonstrating essential version control concepts through practical examples and real-world development workflows.
+This repository contains an educational video tutorial created for **Week 3: Tutorial Document Creation** of a Technical Writing Internship. It introduces Git and GitHub through a beginner-friendly, practical workflow—from setting up Git to publishing a sample web project.
 
 ## 🎬 Watch the Tutorial
 
-[▶ Watch Git & GitHub Tutorial](./Week_3_Git_GitHub_Tutorial_Video.mp4)
+**[▶ Watch / download the Git & GitHub tutorial](./Week_3_Git_GitHub_Tutorial_Video.mp4)**
 
-**Video Details**
-- Duration: 4 minutes 47 seconds
-- Resolution: 1280 × 720 HD
-- Language: English
-- Level: Beginner to Intermediate
+- **Duration:** 4 minutes 47 seconds
+- **Language:** English (narration and captions)
+- **Format:** MP4, 1280 × 720 (HD)
+- **Audience:** Beginners and intermediate learners
+
+> **Note:** If your uploaded video has a different filename, update the link above to match its exact name in the repository.
 
 ## 📚 Topics Covered
 
-1. Introduction to Git and GitHub
-2. Git installation and configuration
-3. Creating a sample HTML portfolio website
-4. Initializing a Git repository
-5. Tracking changes and committing files
-6. Branch creation and merging
-7. Uploading projects to GitHub
-8. Cloning repositories
+1. Introduction to Git, GitHub, and version control
+2. Installing Git and setting up user credentials
+3. Creating a simple HTML portfolio project
+4. Initializing a local repository with `git init`
+5. Tracking changes with `git add`, `git status`, and `git commit`
+6. Creating and merging branches
+7. Connecting a local project to a GitHub repository
+8. Pushing, cloning, and understanding collaborative workflows
 9. Introduction to GitHub Pages
-10. Troubleshooting common Git errors
+10. Common errors and troubleshooting tips
 
-## 🎯 Learning Objectives
+## 🎯 Learning Outcomes
 
-This tutorial aims to help students and beginners understand version control, manage source code efficiently, collaborate on software projects, and become familiar with GitHub-based development workflows.
+After following the tutorial, learners should be able to initialize a repository, record project changes, work with branches, understand how to publish code to GitHub, and identify common Git issues.
 
-## 🛠️ Technologies Used
+## 🧰 Tools and Prerequisites
 
-- Git
-- GitHub
-- HTML
-- Visual Studio Code
-- Git Bash
+- A computer with **Git** installed
+- A text editor, such as **Visual Studio Code**
+- A web browser
+- A **GitHub account** for the online publishing steps
+- Basic familiarity with files and folders (no prior Git experience required)
 
-## 👨‍💻 About the Author
+## 🗂 Repository Contents
 
-**Daksh Garg**
+| File | Description |
+| --- | --- |
+| `Week_3_Git_GitHub_Tutorial_Video.mp4` | Narrated tutorial video |
+| `README.md` | Project overview and viewing instructions |
 
-B.Tech – Computer Science and Engineering  
+*If you add the written report, subtitles, or practice files later, list them here too.*
+
+## ℹ️ About the Demonstration
+
+The video uses illustrated terminal demonstrations and sample project visuals to explain the workflow. It is an instructional tutorial, **not a live recording of a personal GitHub account**. Learners should carry out the GitHub steps in their own accounts.
+
+## 👨‍💻 Author
+
+**Daksh Garg**  
+B.Tech — Computer Science and Engineering  
 Graphic Era Hill University, Dehradun  
 Batch: 2024–2028
 
-**Project:** Week 3 – Tutorial Document Creation
+**Project:** Week 3 — Technical Writing Internship, Tutorial Document Creation
 
-## 📝 Note
+---
 
-This video was developed for educational and technical documentation purposes. It includes illustrated terminal demonstrations and sample project visuals, rather than recordings of a live GitHub account.
-
-The objective is to simplify technical concepts and present practical workflows through clear, structured, and accessible instructions.
+*Created for educational and technical documentation purposes.*
